@@ -11,6 +11,7 @@
     <AssemblyName>ReplaceAll</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -23,7 +24,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -101,6 +101,7 @@
     <None Include="Resources\Orange Square1.png" />
     <None Include="Resources\square limegreen.png" />
     <None Include="Resources\square dodgerblue.png" />
+    <Content Include="doc\screen shot.png" />
     <Content Include="shape_move_backwards.ico" />
   </ItemGroup>
   <ItemGroup>
