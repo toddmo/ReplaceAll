@@ -12,7 +12,7 @@ namespace ReplaceAll
   {
     public Form1()
     {
-      InitializeComponent();
+      InitializeComponent(); // this does something
     }
 
     private string highlight;
